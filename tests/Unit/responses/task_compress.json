@@ -1,0 +1,17 @@
+{
+  "code": 0,
+  "data": {
+    "id": "pygil5nq-c0ax-bcju-aq0v-rlcbydu31tye",
+    "status": "waiting",
+    "operation": "compress",
+    "created_at": "2021-04-23 02:48:19",
+    "wsid": "18083031",
+    "input": [
+      "uhpv6se2-a4g1-b9jx-c6ja-pfwylj86cstp"
+    ],
+    "links": [
+      "http://48046449-1266070635367705.test.functioncompute.com/v2/tasks/pygil5nq-c0ax-bcju-aq0v-rlcbydu31tye"
+    ]
+  },
+  "msg": ""
+}
