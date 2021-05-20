@@ -1,0 +1,47 @@
+{
+    "name": "mediaconvert/mediaconvert-php",
+    "description": "PHP SDK for MediaConvert APIs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "18083031",
+            "email": "shizhu@300624.cn"
+        }
+    ],
+    "require": {
+        "php": "^7.2|^8.0",
+        "psr/http-message": "^1.0",
+        "php-http/client-implementation": "^1.0 || ^2.0",
+        "php-http/httplug": "^1.0 || ^2.0",
+        "php-http/message-factory": "^1.0",
+        "php-http/discovery": "^1.0",
+        "symfony/options-resolver": "^4.2 || ^5.0",
+        "netresearch/jsonmapper": "^4.0",
+        "php-http/multipart-stream-builder": "^1.0",
+        "php-http/client-common": "^2.0",
+        "php-http/message": "^1.7",
+        "guzzlehttp/psr7": "^1.0"
+    },
+    "require-dev": {
+        "php-http/mock-client": "^1.0",
+        "guzzlehttp/guzzle": "7.0",
+        "phpunit/phpunit": "8.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "MediaConvert\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MediaConvert\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "tests": [
+            "vendor/bin/phpunit --verbose"
+        ]
+    }
+}

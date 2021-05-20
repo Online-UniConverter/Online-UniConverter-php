@@ -1,0 +1,15 @@
+{
+  "code": 0,
+  "data": {
+    "id": "57gx9r9f-anpd-bksb-c5jr-mf495y5w6ya0",
+    "status": "waiting",
+    "message": "waiting for file upload",
+    "operation": "import/base64",
+    "created_at": "2021-04-23 02:38:05",
+    "wsid": "18083031",
+    "links": [
+      "http://48046449-1266070635367705.test.functioncompute.com/v2/tasks/57gx9r9f-anpd-bksb-c5jr-mf495y5w6ya0"
+    ]
+  },
+  "msg": ""
+}
