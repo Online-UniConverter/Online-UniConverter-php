@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="true" bootstrap="tests/bootstrap.php">
+    <testsuites>
+        <testsuite name="Unit">
+            <directory>tests/Unit</directory>
+        </testsuite>
+        <testsuite name="Feature">
+            <directory>tests/Feature</directory>
+        </testsuite>
+    </testsuites>
+    <php>
+        <env name="API_KEY" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRoX2lkIjoxMjEsIndzaWQiOiI1NTE4ODAyODAiLCJlbWFpbCI6ImxpcXVhbkAzMDA2MjQuY24iLCJhdWQiOiI5YTkyNWVkN2M1NDE5NDJjOGY4Y2IzNDgxNzg1ZTRmZSIsImV4cCI6MTY1MjI0OTk5MSwianRpIjoiM2Q4YjBlYTFiYTRjZjlmMzM1NDUxMGE1ZmVlOGU5MWYiLCJpYXQiOjE2MjA3MTM5OTEsImlzcyI6Im1lZGlhLmlvIiwibmJmIjoxNjIwNzEyOTkxLCJzdWIiOiI0YzU2ZmY0Y2U0YWFmOTU3M2FhNWRmZjkxM2RmOTk3YSJ9.Hnmb4D5xqxs-wLQ3y65YCyH-cSkPa-vCkda-bPCi5KQ" force="true"/>
+	</php>
+</phpunit>
