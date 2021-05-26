@@ -1,0 +1,30 @@
+{
+  "code": 0,
+  "data": {
+    "id": "8raychro-alj8-bucw-c2z3-xh21a1px7yev",
+    "status": "waiting",
+    "message": "waiting for file upload",
+    "operation": "import/upload",
+    "result": {
+      "form": {
+        "url": "http://storage.media.io",
+        "parameters": {
+          "name": "",
+          "key": "upload/2021-04-23/8raychro-alj8-bucw-c2z3-xh21a1px7yev/${filename}",
+          "policy": "eyJleHBpcmF0aW9uIjoiMjAyMS0wNC0yM1QwMjozMDo0MloiLCJjb25kaXRpb25zIjpbWyJzdGFydHMtd2l0aCIsIiRrZXkiLCJ1cGxvYWQvMjAyMS0wNC0yMy8iXV19",
+          "OSSAccessKeyId": "",
+          "success_action_status": 200,
+          "callback": "eyJjYWxsYmFja1VybCI6Imh0dHA6Ly80ODA0NjQ0OS0xMjY2MDcwNjM1MzY3NzA1LnRlc3QuZnVuY3Rpb25jb21wdXRlLmNvbS92Mi9wb2xpY3kvY2FsbGJhY2siLCJjYWxsYmFja0JvZHkiOiJmaWxlbmFtZT0ke29iamVjdH1cdTAwMjZzaXplPSR7c2l6ZX1cdTAwMjZtaW1lVHlwZT0ke21pbWVUeXBlfVx1MDAyNmhlaWdodD0ke2ltYWdlSW5mby5oZWlnaHR9XHUwMDI2d2lkdGg9JHtpbWFnZUluZm8ud2lkdGh9XHUwMDI2c3RhcnQ9JHt4OnRpbWVzdGFtcH1cdTAwMjZ0YXNrSWQ9OHJheWNocm8tYWxqOC1idWN3LWMyejMteGgyMWExcHg3eWV2IiwiY2FsbGJhY2tCb2R5VHlwZSI6ImFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCJ9",
+          "signature": "ne3Kk31sJiQkjyDVcEKXBLo3TCY=",
+          "expire": 1619145042
+        }
+      }
+    },
+    "created_at": "2021-04-23 02:20:42",
+    "wsid": "00000000",
+    "links": [
+      "http://api.media.io/v2/tasks/8raychro-alj8-bucw-c2z3-xh21a1px7yev"
+    ]
+  },
+  "msg": ""
+}
